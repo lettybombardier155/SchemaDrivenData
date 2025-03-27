@@ -1,0 +1,23 @@
+
+---
+
+### **2. 37_UptimeStatusProbe**  
+**Description:**  
+Checks the status and response time of multiple HTTP endpoints.
+
+#### **README.md**
+```markdown
+# UptimeStatusProbe - Endpoint Health Monitor
+
+UptimeStatusProbe is useful for quickly validating API uptime and performance over time.
+
+## Features
+- Logs HTTP status and latency  
+- Pings multiple endpoints  
+- CLI-friendly  
+
+## Usage
+```bash
+git clone https://github.com/your-username/37_UptimeStatusProbe.git
+cd 37_UptimeStatusProbe
+python monitor.py
