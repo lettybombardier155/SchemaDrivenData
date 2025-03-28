@@ -1,0 +1,23 @@
+
+---
+
+### **3. 37_LogFrequencyScanner**  
+**Description:**  
+Scans system or app logs and finds the most repeated lines or alert patterns.
+
+#### **README.md**
+```markdown
+# LogFrequencyScanner - Log Repetition Detector
+
+LogFrequencyScanner helps find noisy or recurring events in large logs, aiding in debugging or anomaly detection.
+
+## Features
+- Frequency analysis  
+- Keyword highlighting  
+- Lightweight and fast  
+
+## Usage
+```bash
+git clone https://github.com/your-username/37_LogFrequencyScanner.git
+cd 37_LogFrequencyScanner
+python analyze.py /var/log/mylog.log
